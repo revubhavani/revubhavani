@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revubhavani
 - 👀 I’m interested in Data science and python programming
-- 🌱 I’m currently studying at kIET college in ECE Stream
+- 🌱 I’m currently studying at KIET college in ECE Stream
 - 💞️ I’m looking to work on data science 
 - 📫 How to reach me 
 you can reach through contanct number:91-8341692636
